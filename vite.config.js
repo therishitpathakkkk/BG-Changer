@@ -7,7 +7,6 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: "/BG-Changer/",
   server: {
     open:true
   }
